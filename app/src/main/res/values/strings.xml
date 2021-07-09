@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDoLists</string>
+    <string name="t1">Welcome</string>
+    <string name="t2">Do your lists!</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="ingresa">Start Now</string>
+    <string name="title_activity_tabs">Tabs</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="mark_as_completed">Mark as completed</string>
+    <string name="reset">Reset</string>
+</resources>
